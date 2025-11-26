@@ -1,16 +1,5 @@
-<!--  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<h1 align="center">🚴‍♂️✨ Bike Sharing Usage Analysis ✨📊</h1>
-<!--  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="330"/>
-</p>
-
-<p align="center">
-  <b>Data Insights ▪ Usage Behaviors ▪ Demand Forecasting ▪ Smart Allocation</b>
-  <br>
-  <i>Analyze — Visualize — Understand — Improve</i>
-</p>
+<h1 align="center">🚴‍♂️📊 Bike Sharing Usage Analysis</h1>
+<p align="center"> <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="350"/> </p> <p align="center"> <b>Data Analysis • Usage Patterns • Demand Trends • System Optimization</b> </p>
 
 ---
 
@@ -91,3 +80,4 @@ By exploring usage frequency, peak demand hours, and behavioral trends, we aim t
 git clone https://github.com/<your-username>/Bike_Sharing_Analysis.git
 cd Bike_Sharing_Analysis
 jupyter notebook
+
